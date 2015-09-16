@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:34.365767
+#+DATE: 2015-08-30 20:02:34.670094
 #+TITLE: 阿彌陀經通贊疏
 #+PROPERTY: CBETA_ID T37n1758
 #+PROPERTY: ID KR6f0089
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1758
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6f0089_T_000-0329a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0089_T_003-0343b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
-
- 阿彌陀經通贊疏卷下¶
+阿彌陀經通贊疏卷下¶
 ¶
 大慈恩寺沙門窺基撰¶
 
@@ -526,11 +525,11 @@
 
 件書等(予)以嘉保二年孟冬下旬。西府郎會¶
 宋人柳裕傳語高麗王子義天。誂求極樂¶
-要書彌陀行願相應經典章疏等。其後折¶
+要書彌陀行願相應經典章疏等。其後柳¶
 裕守約。以永長二年(丁丑)三月二十三日(丁¶
 丑)送自義天所傳得彌陀極樂書等十三部¶
 二十卷。則以同五月二十三日家時興福¶
-寺淨名院到來。懇誠相臻。清素自𢝷。仍以¶
+寺淨名院到來。懇誠相臻。清素自[怡-台+皆]。仍以¶
 彼本。已重新寫。善種不朽。宿心爰成。欲為¶
 自他法界往生極樂之因緣矣。¶
 
